@@ -9,21 +9,22 @@
  */
 class Solution {
 public:
-    bool solveLCA(TreeNode* root, TreeNode* p, TreeNode* q, TreeNode*& ans) {
-        if(!root) return false;
-
-        bool presentLeft = solveLCA(root->left, p, q, ans);
-        bool presentRight = solveLCA(root->right, p, q, ans);
-
-      if((presentRight && presentLeft) || (root == p || root == q)) {ans = root; return true;}
-        if(presentRight || presentLeft) return true;
-
-        return false;
-    }
-
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode* ans = NULL;
-        solveLCA(root, p, q, ans);
-        return ans;
+        
+        if(!root) return NULL;
+        
+        if(root==p || root==q) return root;
+        
+        TreeNode* left=lowestCommonAncestor(root->left,p,q);
+        
+        TreeNode* right=lowestCommonAncestor(root->right,p,q);
+        
+        if(left && right) return root;
+        
+        else if(left && !right) return left;
+        
+        else if(!left && right) return right;
+        
+        return NULL;
     }
 };
