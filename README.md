@@ -9,6 +9,7 @@ I will upload all my LeetCode Solutions here.
 | [0039-combination-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Ansh310/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 ## Hash Table
@@ -19,6 +20,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ansh310/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -40,5 +42,6 @@ I will upload all my LeetCode Solutions here.
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
