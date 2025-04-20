@@ -36,6 +36,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -47,4 +48,16 @@ I will upload all my LeetCode Solutions here.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
