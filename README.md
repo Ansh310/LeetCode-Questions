@@ -6,6 +6,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Ansh310/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 ## Hash Table
@@ -29,4 +30,8 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
