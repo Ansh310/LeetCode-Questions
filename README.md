@@ -82,9 +82,14 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ansh310/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
