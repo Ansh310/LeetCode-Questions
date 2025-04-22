@@ -27,6 +27,7 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [0048-rotate-image](https://github.com/Ansh310/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -79,4 +80,9 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
