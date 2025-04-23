@@ -16,6 +16,7 @@ I will upload all my LeetCode Solutions here.
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0792-binary-search](https://github.com/Ansh310/LeetCode-Questions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ansh310/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -98,8 +99,10 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
