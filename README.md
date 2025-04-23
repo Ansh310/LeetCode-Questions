@@ -15,6 +15,7 @@ I will upload all my LeetCode Solutions here.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0792-binary-search](https://github.com/Ansh310/LeetCode-Questions/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ansh310/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -23,6 +24,7 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [0001-two-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Ansh310/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
+| [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +94,12 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0812-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
