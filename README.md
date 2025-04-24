@@ -10,6 +10,7 @@ I will upload all my LeetCode Solutions here.
 | [0033-search-in-rotated-sorted-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ansh310/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Ansh310/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -40,6 +41,7 @@ I will upload all my LeetCode Solutions here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
@@ -112,6 +114,7 @@ I will upload all my LeetCode Solutions here.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
