@@ -76,6 +76,7 @@ I will upload all my LeetCode Solutions here.
 | [0110-balanced-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ansh310/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ansh310/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -101,6 +102,7 @@ I will upload all my LeetCode Solutions here.
 | [0110-balanced-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ansh310/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ansh310/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -111,6 +113,7 @@ I will upload all my LeetCode Solutions here.
 | [0033-search-in-rotated-sorted-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ansh310/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/Ansh310/LeetCode-Questions/tree/master/0792-binary-search) |
 ## String
 |  |
@@ -152,4 +155,8 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
