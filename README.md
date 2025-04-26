@@ -37,6 +37,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ansh310/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Ansh310/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -49,6 +50,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/Ansh310/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ansh310/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0213-house-robber-ii) |
@@ -169,4 +171,8 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ansh310/LeetCode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
