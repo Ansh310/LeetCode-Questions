@@ -35,6 +35,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ansh310/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
@@ -46,6 +47,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
@@ -159,4 +161,8 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
