@@ -15,6 +15,7 @@ I will upload all my LeetCode Solutions here.
 | [0048-rotate-image](https://github.com/Ansh310/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Ansh310/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ansh310/LeetCode-Questions/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ansh310/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -45,12 +46,14 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ansh310/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Ansh310/LeetCode-Questions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ansh310/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0213-house-robber-ii) |
