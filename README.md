@@ -18,6 +18,7 @@ I will upload all my LeetCode Solutions here.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ansh310/LeetCode-Questions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -50,6 +51,7 @@ I will upload all my LeetCode Solutions here.
 | [0045-jump-game-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ansh310/LeetCode-Questions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 ## Breadth-First Search
 |  |
