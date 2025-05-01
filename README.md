@@ -17,6 +17,7 @@ I will upload all my LeetCode Solutions here.
 | [0057-insert-interval](https://github.com/Ansh310/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Ansh310/LeetCode-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ansh310/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -82,6 +83,7 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [0039-combination-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Ansh310/LeetCode-Questions/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +192,7 @@ I will upload all my LeetCode Solutions here.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ansh310/LeetCode-Questions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 ## Memoization
 |  |
