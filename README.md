@@ -29,6 +29,7 @@ I will upload all my LeetCode Solutions here.
 | [0792-binary-search](https://github.com/Ansh310/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Ansh310/LeetCode-Questions/tree/master/0890-lemonade-change) |
 | [0967-minimum-falling-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ansh310/LeetCode-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ansh310/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -37,6 +38,7 @@ I will upload all my LeetCode Solutions here.
 | [0001-two-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Ansh310/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +46,7 @@ I will upload all my LeetCode Solutions here.
 | [0062-unique-paths](https://github.com/Ansh310/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -188,9 +191,11 @@ I will upload all my LeetCode Solutions here.
 ## Sliding Window
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ansh310/LeetCode-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ansh310/LeetCode-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
