@@ -91,6 +91,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Ansh310/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -221,4 +222,8 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ansh310/LeetCode-Questions/tree/master/0130-surrounded-regions) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Ansh310/LeetCode-Questions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
