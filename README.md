@@ -6,6 +6,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ansh310/LeetCode-Questions/tree/master/0035-search-insert-position) |
@@ -90,6 +91,7 @@ I will upload all my LeetCode Solutions here.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Ansh310/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -186,6 +188,7 @@ I will upload all my LeetCode Solutions here.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Ansh310/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
 ## Binary Search Tree
