@@ -1,26 +1,16 @@
 class Solution {
 public:
     bool canMake(vector<int>& bloomDay, int days, int m, int k, int n) {
-        int st = 0, end = 0, ans = 0, cnt = 0;
+        int numOfBouquets = 0, cnt = 0;
+        
+        for(int i = 0; i < n; i++) {
+            if(bloomDay[i] <= days) cnt++;
 
-        while(end < n) {
-            if(bloomDay[end] <= days) cnt++;
-            while(end + 1 < n && end - st < k - 1) {end++; if(bloomDay[end] <= days) cnt++;}
+            else cnt = 0;
 
-            while(end < n && cnt < k) {
-                if(bloomDay[st] <= days) cnt--;
-                st++;
-                
-                end++;
-                if(end < n && bloomDay[end] <= days) cnt++;
-            }
-            if(cnt == k) ans++;
-            st = end + 1;
-            end = st;
-            cnt = 0;
+            if(cnt == k) {numOfBouquets++; cnt = 0;}
         }
-
-        if(ans >= m) return true;
+        if(numOfBouquets >= m) return true;
         return false;
     }
 
