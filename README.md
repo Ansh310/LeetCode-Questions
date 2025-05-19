@@ -44,6 +44,7 @@ I will upload all my LeetCode Solutions here.
 | [0205-isomorphic-strings](https://github.com/Ansh310/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +163,7 @@ I will upload all my LeetCode Solutions here.
 | [0151-reverse-words-in-a-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ansh310/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0812-rotate-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0812-rotate-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -231,4 +233,8 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ansh310/LeetCode-Questions/tree/master/0061-rotate-list) |
+## Counting
+|  |
+| ------- |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
