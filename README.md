@@ -51,6 +51,7 @@ I will upload all my LeetCode Solutions here.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ansh310/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ansh310/LeetCode-Questions/tree/master/0062-unique-paths) |
@@ -240,9 +241,14 @@ I will upload all my LeetCode Solutions here.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Ansh310/LeetCode-Questions/tree/master/0061-rotate-list) |
 ## Counting
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
