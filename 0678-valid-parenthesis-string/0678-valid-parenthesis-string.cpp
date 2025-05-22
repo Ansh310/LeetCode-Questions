@@ -2,24 +2,26 @@ class Solution {
 public:
     bool checkValidString(string s) {
         int n = s.size();
-        vector<vector<bool>> dp(n + 1, vector<bool>(n + 1, false));
+        int max = 0, min = 0;
 
-        dp[n][0] = true;
-
-        for(int i = n - 1; i >= 0; i--) {
-            for(int cnt = 0; cnt <= n; cnt++) {
-                if(s[i] == '(') {
-                    dp[i][cnt] = dp[i + 1][cnt + 1];
-                }
-                else if(s[i] == ')' && cnt > 0) {
-                    dp[i][cnt] = dp[i + 1][cnt - 1];
-                }
-                else if(s[i] == '*') {
-                    dp[i][cnt] = dp[i + 1][cnt] || dp[i + 1][cnt + 1];
-                    if(cnt > 0) dp[i][cnt] = dp[i][cnt] || dp[i + 1][cnt - 1];
-                }
+        for(int i = 0; i < n; i++) {
+            if(s[i] == '(') {
+                min = min + 1;
+                max = max + 1;
             }
+            else if(s[i] == ')') {
+                min = min - 1;
+                max = max - 1;
+            }
+            else {
+                min = min - 1;
+                max = max + 1;
+            }
+            if(min < 0) min = 0;
+            if(max < 0) return false;
         }
-        return dp[0][0];
+
+        if(min <= 0 && max >= 0) return true;
+        return false;
     }
 };
