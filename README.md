@@ -198,11 +198,13 @@ I will upload all my LeetCode Solutions here.
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0937-online-stock-span](https://github.com/Ansh310/LeetCode-Questions/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/Ansh310/LeetCode-Questions/tree/master/0937-online-stock-span) |
 ## Sorting
 |  |
 | ------- |
@@ -261,4 +263,12 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Ansh310/LeetCode-Questions/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Ansh310/LeetCode-Questions/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
