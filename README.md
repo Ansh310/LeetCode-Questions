@@ -31,6 +31,7 @@ I will upload all my LeetCode Solutions here.
 | [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0792-binary-search](https://github.com/Ansh310/LeetCode-Questions/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Ansh310/LeetCode-Questions/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
@@ -46,6 +47,7 @@ I will upload all my LeetCode Solutions here.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ansh310/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Ansh310/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -183,6 +185,7 @@ I will upload all my LeetCode Solutions here.
 | [0045-jump-game-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Ansh310/LeetCode-Questions/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
@@ -211,6 +214,7 @@ I will upload all my LeetCode Solutions here.
 | [0015-3sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Ansh310/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 ## Binary Search Tree
 |  |
 | ------- |
