@@ -203,6 +203,7 @@ I will upload all my LeetCode Solutions here.
 | [0094-binary-tree-inorder-traversal](https://github.com/Ansh310/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ansh310/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ansh310/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Ansh310/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -275,9 +276,14 @@ I will upload all my LeetCode Solutions here.
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ansh310/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/Ansh310/LeetCode-Questions/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Ansh310/LeetCode-Questions/tree/master/0937-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ansh310/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
