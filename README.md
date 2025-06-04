@@ -76,6 +76,7 @@ I will upload all my LeetCode Solutions here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ansh310/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Ansh310/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
@@ -178,6 +179,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ansh310/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0044-wildcard-matching](https://github.com/Ansh310/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ansh310/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -187,6 +189,7 @@ I will upload all my LeetCode Solutions here.
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ansh310/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
@@ -274,6 +277,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Ansh310/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 ## Design
 |  |
 | ------- |
