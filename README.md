@@ -21,6 +21,7 @@ I will upload all my LeetCode Solutions here.
 | [0074-search-a-2d-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Ansh310/LeetCode-Questions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ansh310/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/Ansh310/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ansh310/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -207,6 +208,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ansh310/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ansh310/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ansh310/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ansh310/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ansh310/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -220,6 +222,7 @@ I will upload all my LeetCode Solutions here.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ansh310/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Ansh310/LeetCode-Questions/tree/master/0937-online-stock-span) |
