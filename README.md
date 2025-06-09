@@ -27,6 +27,7 @@ I will upload all my LeetCode Solutions here.
 | [0198-house-robber](https://github.com/Ansh310/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -48,6 +49,7 @@ I will upload all my LeetCode Solutions here.
 | [0001-two-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ansh310/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Ansh310/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
+| [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -236,6 +238,7 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [0015-3sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Ansh310/LeetCode-Questions/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 ## Binary Search Tree
@@ -285,6 +288,7 @@ I will upload all my LeetCode Solutions here.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Recursion
 |  |
@@ -306,4 +310,20 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Ansh310/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ansh310/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
