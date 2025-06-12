@@ -288,6 +288,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ansh310/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Ansh310/LeetCode-Questions/tree/master/0061-rotate-list) |
 ## Counting
 |  |
@@ -298,6 +299,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ansh310/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Ansh310/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ansh310/LeetCode-Questions/tree/master/0050-powx-n) |
 ## Design
