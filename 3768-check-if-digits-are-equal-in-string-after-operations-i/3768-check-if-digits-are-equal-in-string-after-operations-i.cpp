@@ -3,18 +3,10 @@ public:
     bool hasSameDigits(string s) {
         int n = s.size();
 
-        while(n > 2) {
-            
-            for(int i = 0; i < n - 1; i++) {
-                int digit1 = s[i] - '0';
-                int digit2 = s[i + 1] - '0';
-                int sum = (digit1 + digit2) % 10;
-                char ch = sum + '0';
-                s[i] = ch;
+        for(int i = 1; i <= n - 2; i++) {
+            for(int j = 0; j <= n - 1 - i; j++) {
+                s[j] = ((s[j] - '0') + (s[j + 1] - '0')) % 10 + '0';
             }
-
-            s[n - 1] = '\0';
-            n--;
         }
 
         return s[0] == s[1];
