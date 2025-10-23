@@ -75,6 +75,7 @@ I will upload all my LeetCode Solutions here.
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -203,6 +204,7 @@ I will upload all my LeetCode Solutions here.
 | [0812-rotate-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0812-rotate-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -273,6 +275,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ansh310/LeetCode-Questions/tree/master/0062-unique-paths) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -350,4 +353,9 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0204-count-primes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
