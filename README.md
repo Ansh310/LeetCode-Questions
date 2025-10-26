@@ -60,6 +60,7 @@ I will upload all my LeetCode Solutions here.
 | [0966-binary-subarrays-with-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ I will upload all my LeetCode Solutions here.
 | [0204-count-primes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0204-count-primes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
@@ -116,6 +118,7 @@ I will upload all my LeetCode Solutions here.
 | [0039-combination-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ansh310/LeetCode-Questions/tree/master/0078-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -307,6 +310,7 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Recursion
 |  |
 | ------- |
@@ -349,6 +353,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0204-count-primes) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Number Theory
 |  |
 | ------- |
