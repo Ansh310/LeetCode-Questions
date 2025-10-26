@@ -74,6 +74,7 @@ I will upload all my LeetCode Solutions here.
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0204-count-primes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
