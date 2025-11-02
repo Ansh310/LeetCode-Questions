@@ -46,6 +46,7 @@ I will upload all my LeetCode Solutions here.
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ansh310/LeetCode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ansh310/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh310/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -96,6 +97,7 @@ I will upload all my LeetCode Solutions here.
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -372,5 +374,6 @@ I will upload all my LeetCode Solutions here.
 ## Simulation
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
