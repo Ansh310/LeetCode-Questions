@@ -46,6 +46,7 @@ I will upload all my LeetCode Solutions here.
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ansh310/LeetCode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ansh310/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ansh310/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh310/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -86,6 +87,7 @@ I will upload all my LeetCode Solutions here.
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh310/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -121,6 +123,7 @@ I will upload all my LeetCode Solutions here.
 | [0943-sum-of-subarray-minimums](https://github.com/Ansh310/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ansh310/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh310/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Breadth-First Search
 |  |
 | ------- |
