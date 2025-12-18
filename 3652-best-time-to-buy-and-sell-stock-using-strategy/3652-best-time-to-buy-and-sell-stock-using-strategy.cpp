@@ -2,28 +2,27 @@ class Solution {
 public:
     long long maxProfit(vector<int>& prices, vector<int>& strategy, int k) {
         int n = prices.size();
-        vector<long long> prefixSum(n);
+        vector<long long> prefixSum(n + 1), prices_sum(n + 1);
 
         //calculating prefixSum array
-        prefixSum[0] = prices[0] * strategy[0];
-        for(int i = 1; i < n; i++) {
-            prefixSum[i] += prefixSum[i - 1] + (long long)prices[i] * strategy[i];
+        
+        for(int i = 0; i < n; i++) {
+            prefixSum[i + 1] += prefixSum[i] + prices[i] * strategy[i];
+            prices_sum[i + 1] += prices_sum[i] + prices[i];
         }
 
-        long long maxProfit = prefixSum[n - 1], sum = 0;
+        long long maxProfit = prefixSum[n], sum = 0;
         int st = 0, end= 0;
 
         while(end < n && end - st + 1 < k) end++;
 
         while(end < n) {
         
-            long long temp_sum = (st == 0 ? 0 : prefixSum[st - 1]);
+            long long temp_sum = prefixSum[st];
 
-            for(int l = st + k / 2; l <= end; l++) {
-                temp_sum += prices[l];
-            }
+            temp_sum += prices_sum[end + 1] - prices_sum[end + 1 - k/2];
 
-            temp_sum += prefixSum[n - 1] - prefixSum[end];
+            temp_sum += prefixSum[n] - prefixSum[end + 1];
 
             if(temp_sum > maxProfit) maxProfit = temp_sum;
 
