@@ -12,21 +12,17 @@ public:
         }
 
         long long maxProfit = prefixSum[n], sum = 0;
-        int st = 0, end= 0;
+        int st = 0;
 
-        while(end < n && end - st + 1 < k) end++;
-
-        while(end < n) {
+        while(st + k - 1 < n) {
         
             long long temp_sum = prefixSum[st];
 
-            temp_sum += prices_sum[end + 1] - prices_sum[end + 1 - k/2];
+            temp_sum += prices_sum[st + k] - prices_sum[st + k/2];
 
-            temp_sum += prefixSum[n] - prefixSum[end + 1];
+            temp_sum += prefixSum[n] - prefixSum[st + k];
 
             if(temp_sum > maxProfit) maxProfit = temp_sum;
-
-            end++;
             st++;
         }
 
