@@ -33,6 +33,7 @@ I will upload all my LeetCode Solutions here.
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Ansh310/LeetCode-Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Ansh310/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Ansh310/LeetCode-Questions/tree/master/0890-lemonade-change) |
@@ -246,6 +247,7 @@ I will upload all my LeetCode Solutions here.
 | [0402-remove-k-digits](https://github.com/Ansh310/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Ansh310/LeetCode-Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Ansh310/LeetCode-Questions/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -270,6 +272,7 @@ I will upload all my LeetCode Solutions here.
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Ansh310/LeetCode-Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Ansh310/LeetCode-Questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ansh310/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
 ## Monotonic Stack
@@ -279,6 +282,7 @@ I will upload all my LeetCode Solutions here.
 | [0402-remove-k-digits](https://github.com/Ansh310/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Ansh310/LeetCode-Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/Ansh310/LeetCode-Questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ansh310/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
 ## Sorting
@@ -288,6 +292,7 @@ I will upload all my LeetCode Solutions here.
 | [0056-merge-intervals](https://github.com/Ansh310/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Ansh310/LeetCode-Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
