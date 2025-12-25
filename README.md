@@ -53,6 +53,7 @@ I will upload all my LeetCode Solutions here.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ansh310/LeetCode-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -256,6 +257,7 @@ I will upload all my LeetCode Solutions here.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ansh310/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String Matching
 |  |
 | ------- |
@@ -297,6 +299,7 @@ I will upload all my LeetCode Solutions here.
 | [0769-max-chunks-to-make-sorted](https://github.com/Ansh310/LeetCode-Questions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 ## Binary Search Tree
