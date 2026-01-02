@@ -39,6 +39,7 @@ I will upload all my LeetCode Solutions here.
 | [0890-lemonade-change](https://github.com/Ansh310/LeetCode-Questions/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ansh310/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -72,6 +73,7 @@ I will upload all my LeetCode Solutions here.
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0876-hand-of-straights](https://github.com/Ansh310/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
