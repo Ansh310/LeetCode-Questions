@@ -44,6 +44,7 @@ I will upload all my LeetCode Solutions here.
 | [0967-minimum-falling-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Ansh310/LeetCode-Questions/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ansh310/LeetCode-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Ansh310/LeetCode-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ansh310/LeetCode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -95,6 +96,7 @@ I will upload all my LeetCode Solutions here.
 | [0204-count-primes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0991-broken-calculator](https://github.com/Ansh310/LeetCode-Questions/tree/master/0991-broken-calculator) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Ansh310/LeetCode-Questions/tree/master/1390-four-divisors) |
 | [1690-stone-game-vii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1690-stone-game-vii) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
