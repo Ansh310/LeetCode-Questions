@@ -51,6 +51,7 @@ I will upload all my LeetCode Solutions here.
 | [1690-stone-game-vii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1690-stone-game-vii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ansh310/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ansh310/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1975-maximum-matrix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh310/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -118,6 +119,7 @@ I will upload all my LeetCode Solutions here.
 | [0130-surrounded-regions](https://github.com/Ansh310/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
+| [1975-maximum-matrix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Dynamic Programming
@@ -263,6 +265,7 @@ I will upload all my LeetCode Solutions here.
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0991-broken-calculator](https://github.com/Ansh310/LeetCode-Questions/tree/master/0991-broken-calculator) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ansh310/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
