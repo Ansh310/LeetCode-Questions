@@ -43,6 +43,7 @@ I will upload all my LeetCode Solutions here.
 | [0966-binary-subarrays-with-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ansh310/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Ansh310/LeetCode-Questions/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ansh310/LeetCode-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -96,6 +97,7 @@ I will upload all my LeetCode Solutions here.
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0991-broken-calculator](https://github.com/Ansh310/LeetCode-Questions/tree/master/0991-broken-calculator) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ansh310/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Ansh310/LeetCode-Questions/tree/master/1390-four-divisors) |
 | [1690-stone-game-vii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1690-stone-game-vii) |
@@ -441,4 +443,8 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [1690-stone-game-vii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1690-stone-game-vii) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Ansh310/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
