@@ -61,6 +61,7 @@ I will upload all my LeetCode Solutions here.
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ansh310/LeetCode-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -341,6 +342,7 @@ I will upload all my LeetCode Solutions here.
 | [0222-count-complete-tree-nodes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ansh310/LeetCode-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
