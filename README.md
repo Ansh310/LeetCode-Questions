@@ -69,6 +69,7 @@ I will upload all my LeetCode Solutions here.
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Ansh310/LeetCode-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/3685-subsequence-sum-after-capping-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ I will upload all my LeetCode Solutions here.
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh310/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
