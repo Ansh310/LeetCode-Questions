@@ -52,6 +52,7 @@ I will upload all my LeetCode Solutions here.
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ansh310/LeetCode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1690-stone-game-vii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1690-stone-game-vii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ansh310/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Ansh310/LeetCode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ansh310/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh310/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
