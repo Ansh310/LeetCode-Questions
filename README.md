@@ -61,6 +61,7 @@ I will upload all my LeetCode Solutions here.
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
@@ -88,6 +89,7 @@ I will upload all my LeetCode Solutions here.
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh310/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
@@ -151,6 +153,7 @@ I will upload all my LeetCode Solutions here.
 | [1690-stone-game-vii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1690-stone-game-vii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ansh310/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh310/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ansh310/LeetCode-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Breadth-First Search
