@@ -55,6 +55,7 @@ I will upload all my LeetCode Solutions here.
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ansh310/LeetCode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ansh310/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1975-maximum-matrix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ansh310/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh310/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -295,6 +296,7 @@ I will upload all my LeetCode Solutions here.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ansh310/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ansh310/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String Matching
