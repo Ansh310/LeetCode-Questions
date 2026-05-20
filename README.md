@@ -65,6 +65,7 @@ I will upload all my LeetCode Solutions here.
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Ansh310/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -96,6 +97,7 @@ I will upload all my LeetCode Solutions here.
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2540-minimum-common-value](https://github.com/Ansh310/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
@@ -193,6 +195,7 @@ I will upload all my LeetCode Solutions here.
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [2540-minimum-common-value](https://github.com/Ansh310/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Tree
 |  |
@@ -269,6 +272,7 @@ I will upload all my LeetCode Solutions here.
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ansh310/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ansh310/LeetCode-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ansh310/LeetCode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2540-minimum-common-value](https://github.com/Ansh310/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
