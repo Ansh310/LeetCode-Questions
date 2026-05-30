@@ -505,6 +505,7 @@ I will upload all my LeetCode Solutions here.
 | [0584-find-customer-referee](https://github.com/Ansh310/LeetCode-Questions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Ansh310/LeetCode-Questions/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/Ansh310/LeetCode-Questions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ansh310/LeetCode-Questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
