@@ -78,6 +78,7 @@ I will upload all my LeetCode Solutions here.
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh310/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Ansh310/LeetCode-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -198,6 +199,7 @@ I will upload all my LeetCode Solutions here.
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [2540-minimum-common-value](https://github.com/Ansh310/LeetCode-Questions/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Tree
 |  |
@@ -275,6 +277,7 @@ I will upload all my LeetCode Solutions here.
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ansh310/LeetCode-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ansh310/LeetCode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2540-minimum-common-value](https://github.com/Ansh310/LeetCode-Questions/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -319,6 +322,7 @@ I will upload all my LeetCode Solutions here.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ansh310/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String Matching
 |  |
 | ------- |
@@ -364,6 +368,7 @@ I will upload all my LeetCode Solutions here.
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/3685-subsequence-sum-after-capping-elements) |
 ## Binary Search Tree
 |  |
