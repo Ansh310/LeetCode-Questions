@@ -133,6 +133,7 @@ I will upload all my LeetCode Solutions here.
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh310/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ansh310/LeetCode-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -227,6 +228,7 @@ I will upload all my LeetCode Solutions here.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ansh310/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -247,6 +249,7 @@ I will upload all my LeetCode Solutions here.
 | [1306-jump-game-iii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ansh310/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
