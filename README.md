@@ -84,6 +84,7 @@ I will upload all my LeetCode Solutions here.
 | [3685-subsequence-sum-after-capping-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/3685-subsequence-sum-after-capping-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3838-weighted-word-mapping](https://github.com/Ansh310/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -313,6 +314,7 @@ I will upload all my LeetCode Solutions here.
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Ansh310/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -498,6 +500,7 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Ansh310/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Brainteaser
 |  |
 | ------- |
