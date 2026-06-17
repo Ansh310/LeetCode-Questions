@@ -314,6 +314,7 @@ I will upload all my LeetCode Solutions here.
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Ansh310/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
@@ -501,6 +502,7 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Ansh310/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Brainteaser
