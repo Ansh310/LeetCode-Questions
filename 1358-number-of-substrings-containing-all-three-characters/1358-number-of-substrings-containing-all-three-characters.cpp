@@ -9,34 +9,18 @@ public:
         int count = 0;
         vector<int> f(3, 0);
         int n = s.size();
-        int i = 0, j = 0;
+        int st = 0, end = 0;
 
-        while(j < n) {
+        while(end < n) {
+            f[s[end] - 'a']++;
 
-            while(j < n && !check(f)) {f[s[j] - 'a']++; j++;}
-
-            if(j < n) {
-                j--;
-                count += n - j;
-                f[s[j] - 'a']--;
-
-                f[s[i] - 'a']--;
-            
-
-                i++;
+            while(check(f)) {
+                count += n - end;
+                f[s[st] - 'a']--;
+                st++;
             }
-
-            
+            end++;
         }
-
-        while(check(f)) {
-            count++;
-            f[s[i] - 'a']--;
-            i++;
-
-        }
-
-        
         return count;
     }
 };
