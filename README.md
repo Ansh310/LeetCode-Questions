@@ -73,6 +73,7 @@ I will upload all my LeetCode Solutions here.
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/Ansh310/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
@@ -158,6 +159,7 @@ I will upload all my LeetCode Solutions here.
 | [1975-maximum-matrix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -192,6 +194,7 @@ I will upload all my LeetCode Solutions here.
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Ansh310/LeetCode-Questions/tree/master/1345-jump-game-iv) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -487,6 +490,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -559,4 +563,12 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/Ansh310/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
