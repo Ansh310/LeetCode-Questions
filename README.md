@@ -47,6 +47,7 @@ I will upload all my LeetCode Solutions here.
 | [1046-max-consecutive-ones-iii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ansh310/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ansh310/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ansh310/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Ansh310/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -156,6 +157,7 @@ I will upload all my LeetCode Solutions here.
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ansh310/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ansh310/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1975-maximum-matrix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -175,6 +177,7 @@ I will upload all my LeetCode Solutions here.
 | [0678-valid-parenthesis-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ansh310/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ansh310/LeetCode-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1690-stone-game-vii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1690-stone-game-vii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ansh310/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh310/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
