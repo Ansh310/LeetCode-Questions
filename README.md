@@ -147,6 +147,7 @@ I will upload all my LeetCode Solutions here.
 | [3676-smallest-number-with-all-set-bits](https://github.com/Ansh310/LeetCode-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
@@ -329,6 +330,7 @@ I will upload all my LeetCode Solutions here.
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Ansh310/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
@@ -449,6 +451,7 @@ I will upload all my LeetCode Solutions here.
 | [1732-find-the-highest-altitude](https://github.com/Ansh310/LeetCode-Questions/tree/master/1732-find-the-highest-altitude) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ansh310/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Ansh310/LeetCode-Questions/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union Find
 |  |
 | ------- |
