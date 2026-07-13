@@ -517,6 +517,7 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Ansh310/LeetCode-Questions/tree/master/1291-sequential-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
