@@ -146,6 +146,7 @@ I will upload all my LeetCode Solutions here.
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Ansh310/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Ansh310/LeetCode-Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh310/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -334,6 +335,7 @@ I will upload all my LeetCode Solutions here.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3093-longest-common-suffix-queries](https://github.com/Ansh310/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3606-coupon-code-validator](https://github.com/Ansh310/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
@@ -359,6 +361,7 @@ I will upload all my LeetCode Solutions here.
 | [1975-maximum-matrix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ansh310/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
