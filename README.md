@@ -32,6 +32,7 @@ I will upload all my LeetCode Solutions here.
 | [0283-move-zeroes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Ansh310/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Ansh310/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
@@ -133,6 +134,7 @@ I will upload all my LeetCode Solutions here.
 | [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/Ansh310/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0991-broken-calculator](https://github.com/Ansh310/LeetCode-Questions/tree/master/0991-broken-calculator) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ansh310/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -183,6 +185,7 @@ I will upload all my LeetCode Solutions here.
 | [0070-climbing-stairs](https://github.com/Ansh310/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ansh310/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0213-house-robber-ii) |
+| [0486-predict-the-winner](https://github.com/Ansh310/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Ansh310/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ansh310/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
@@ -490,6 +493,7 @@ I will upload all my LeetCode Solutions here.
 | [0025-reverse-nodes-in-k-group](https://github.com/Ansh310/LeetCode-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Ansh310/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ansh310/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/Ansh310/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 ## Design
 |  |
 | ------- |
@@ -551,6 +555,7 @@ I will upload all my LeetCode Solutions here.
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Ansh310/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [1690-stone-game-vii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1690-stone-game-vii) |
 ## Geometry
 |  |
@@ -609,4 +614,12 @@ I will upload all my LeetCode Solutions here.
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ansh310/LeetCode-Questions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ansh310/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
