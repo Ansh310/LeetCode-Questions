@@ -4,58 +4,48 @@ public:
 
         vector<vector<int>> adj(n);
 
-        for(int i = 0; i < invocations.size(); i++) {
-            adj[invocations[i][0]].push_back(invocations[i][1]);
+        for (auto &e : invocations) {
+            adj[e[0]].push_back(e[1]);
         }
 
-        unordered_set<int> group;
         vector<bool> vis(n, false);
-        bool flag = true;
+        vector<bool> group(n, false);
 
         queue<int> q;
         q.push(k);
+        vis[k] = true;
 
-        while(!q.empty()) {
-            int size = q.size();
+        while (!q.empty()) {
+            int u = q.front();
+            q.pop();
 
-            while(size--) {
-                int front = q.front();
-                q.pop();
+            group[u] = true;
 
-                group.insert(front);
-                vis[front] = true;
-
-                for(auto x : adj[front]) {
-                    if(!vis[x]) {
-                        q.push(x);
-                    }
+            for (int v : adj[u]) {
+                if (!vis[v]) {
+                    vis[v] = true;
+                    q.push(v);
                 }
             }
         }
 
-        for(int i = 0; i < n; i++) {
-            if(!vis[i]) {
-                for(auto x : adj[i]) {
-                    if(group.find(x) != group.end()) {
-                        flag = false;
-                        break;
+        for (int i = 0; i < n; i++) {
+            if (!group[i]) {
+                for (int v : adj[i]) {
+                    if (group[v]) {
+                        vector<int> ans;
+                        for (int j = 0; j < n; j++)
+                            ans.push_back(j);
+                        return ans;
                     }
                 }
             }
         }
 
         vector<int> ans;
-
-        if(flag) {
-            for(int i = 0; i < n; i++) {
-                if(group.find(i) == group.end()) {
-                    ans.push_back(i);
-                }
-            }
-        } else {
-            for(int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
+            if (!group[i])
                 ans.push_back(i);
-            }
         }
 
         return ans;
