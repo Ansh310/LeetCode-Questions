@@ -214,6 +214,7 @@ I will upload all my LeetCode Solutions here.
 | [1345-jump-game-iv](https://github.com/Ansh310/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ansh310/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Ansh310/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
@@ -277,6 +278,7 @@ I will upload all my LeetCode Solutions here.
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ansh310/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ansh310/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ansh310/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Ansh310/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
@@ -612,6 +614,7 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/Ansh310/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Ansh310/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
