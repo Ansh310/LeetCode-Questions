@@ -74,6 +74,7 @@ I will upload all my LeetCode Solutions here.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Ansh310/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/Ansh310/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
@@ -116,6 +117,7 @@ I will upload all my LeetCode Solutions here.
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ansh310/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Ansh310/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
@@ -418,6 +420,7 @@ I will upload all my LeetCode Solutions here.
 | [1288-remove-covered-intervals](https://github.com/Ansh310/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
