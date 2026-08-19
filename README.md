@@ -54,6 +54,7 @@ I will upload all my LeetCode Solutions here.
 | [1306-jump-game-iii](https://github.com/Ansh310/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Ansh310/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/Ansh310/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Ansh310/LeetCode-Questions/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ansh310/LeetCode-Questions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -112,6 +113,7 @@ I will upload all my LeetCode Solutions here.
 | [1345-jump-game-iv](https://github.com/Ansh310/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ansh310/LeetCode-Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Ansh310/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1386-cinema-seat-allocation](https://github.com/Ansh310/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ansh310/LeetCode-Questions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ansh310/LeetCode-Questions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -367,6 +369,7 @@ I will upload all my LeetCode Solutions here.
 | [0890-lemonade-change](https://github.com/Ansh310/LeetCode-Questions/tree/master/0890-lemonade-change) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0991-broken-calculator](https://github.com/Ansh310/LeetCode-Questions/tree/master/0991-broken-calculator) |
+| [1386-cinema-seat-allocation](https://github.com/Ansh310/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Ansh310/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/Ansh310/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
@@ -441,6 +444,7 @@ I will upload all my LeetCode Solutions here.
 | [0029-divide-two-integers](https://github.com/Ansh310/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Ansh310/LeetCode-Questions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Ansh310/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/Ansh310/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
