@@ -75,6 +75,7 @@ I will upload all my LeetCode Solutions here.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Ansh310/LeetCode-Questions/tree/master/2540-minimum-common-value) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -426,6 +427,7 @@ I will upload all my LeetCode Solutions here.
 | [1288-remove-covered-intervals](https://github.com/Ansh310/LeetCode-Questions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh310/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ansh310/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ansh310/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -583,6 +585,7 @@ I will upload all my LeetCode Solutions here.
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ansh310/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ansh310/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Database
 |  |
