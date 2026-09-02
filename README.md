@@ -99,6 +99,7 @@ I will upload all my LeetCode Solutions here.
 | [3731-find-missing-elements](https://github.com/Ansh310/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/Ansh310/LeetCode-Questions/tree/master/3838-weighted-word-mapping) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ I will upload all my LeetCode Solutions here.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
