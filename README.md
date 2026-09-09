@@ -172,6 +172,7 @@ I will upload all my LeetCode Solutions here.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3871-count-commas-in-range-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
