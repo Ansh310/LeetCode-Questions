@@ -85,6 +85,7 @@ I will upload all my LeetCode Solutions here.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh310/LeetCode-Questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ansh310/LeetCode-Questions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Ansh310/LeetCode-Questions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -127,6 +128,7 @@ I will upload all my LeetCode Solutions here.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ansh310/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3531-count-covered-buildings](https://github.com/Ansh310/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh310/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -523,6 +525,7 @@ I will upload all my LeetCode Solutions here.
 | [0044-wildcard-matching](https://github.com/Ansh310/LeetCode-Questions/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Ansh310/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Ansh310/LeetCode-Questions/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
@@ -563,6 +566,7 @@ I will upload all my LeetCode Solutions here.
 | [1291-sequential-digits](https://github.com/Ansh310/LeetCode-Questions/tree/master/1291-sequential-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Ansh310/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Ansh310/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ansh310/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
